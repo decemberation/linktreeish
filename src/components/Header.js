@@ -3,6 +3,7 @@ import avatar from '../assets/hori.jpg'
 import MoonIcon from './Icons/MoonIcon'
 import SunIcon from './Icons/SunIcon'
 import '../styles/Header.css'
+import '../styles/Normalize.css'
 
 export default function Header() {
     const [theme, setTheme] = React.useState(() => document.body.getAttribute('data-theme') ?? 'dark')

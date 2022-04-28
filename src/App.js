@@ -2,7 +2,8 @@ import Header from './components/Header';
 import Card from './components/Card';
 import Footer from './components/Footer';
 import socials from './Socials';
-import './App.css' 
+import './App.css'
+import './styles/Normalize.css' 
 
 function App() {
   return (

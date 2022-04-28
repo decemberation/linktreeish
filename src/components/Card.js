@@ -1,6 +1,7 @@
 import React from 'react'
 import { motion } from 'framer-motion'
 import '../styles/Card.css'
+import '../styles/Normalize.css'
 
 export default function Card(props) {
     const variants = {
