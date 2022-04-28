@@ -1,0 +1,49 @@
+
+a,
+a:hover {
+    text-decoration: none;
+    color: var(--font-color);
+}
+
+@media (min-width: 400px) {
+    .Card {
+        margin-top: -2%;
+        margin-bottom: 5%;
+        padding: 5px;
+        border-radius: 8px;
+        height: 100px;
+        width: 300px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media (min-width: 400px) {
+    .Card img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 8px;
+        width: auto;
+        height: 100%;
+    }
+}
+
+
+.Card:hover {
+    background-color: var(--card-hover-bg);
+    border: 1px solid hsla(0, 0%, 87.8%, 0);
+}
+
+@media (min-width: 400px) {
+    .content h2{
+        text-align: center;
+        font-size: 17px;
+        margin-top: auto;
+    }
+}
+
+.content {
+    margin-top: 2px;
+}
+
