@@ -1,6 +1,6 @@
 # Create your own Linktree with ReactJS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can preview the  [demo] here (https://peronesy.netlify.app/).
 
 ## Available Scripts
 
