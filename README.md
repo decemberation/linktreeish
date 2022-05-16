@@ -1,6 +1,6 @@
 # Create your own Linktree with ReactJS
 
-You can preview the  [demo] here https://peronesy.netlify.app/).
+You can preview the  [demo](https://peronesy.netlify.app/) here.
 
 ## Available Scripts
 
